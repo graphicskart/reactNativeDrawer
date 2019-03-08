@@ -38,7 +38,7 @@ export default class Home extends React.Component {
                     </View>}
             onClose={() => this.closeDrawer()}
             tapToClose={true}
-            openDrawerOffset={0.4} >
+            openDrawerOffset={0.2} >
             </Drawer>
       </View>
     );
